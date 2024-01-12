@@ -30,9 +30,9 @@ To run the application on your local machine
 1. Clone the repo 
 2. use `npm install` to install all the dependecies
 2. Create `.env` file in the config folder and add the following as `key = value`
-  - PORT = 3001
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+    - PORT = 3001
+    - DB_STRING = `your database URI`
+    - CLOUD_NAME = `your cloudinary cloud name`
+    - API_KEY = `your cloudinary api key`
+    - API_SECRET = `your cloudinary api secret`
 3. run `npm start` 
